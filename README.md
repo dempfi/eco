@@ -1,17 +1,22 @@
-[![Slack Room][slack-badge]][slack-link]
+[fisherman]: https://github.com/fisherman/fisherman
+[slack-link]: https://fisherman-wharf.herokuapp.com
+[slack-badge]: https://fisherman-wharf.herokuapp.com/badge.svg
+
+[![][slack-badge]][slack-link]
 
 # Eco
 
 Eco-minimal gray scale prompt.
 
+[eco]: https://cloud.githubusercontent.com/assets/8317250/13768992/4e42969c-eabf-11e5-9d94-d5d1bcd9498e.png
 ![eco]
 
 ## Install
 
-With [Fisherman]
+With [fisherman]
 
 ```fish
-fisher i eco
+fisher eco
 ```
 
 ## Option
@@ -32,16 +37,9 @@ fisher i eco
 * `33ms` Last command duration.
 
 ## Terminal Settings
+[Eco.itermcolors]: https://github.com/fishery/eco/raw/master/Eco.itermcolors
+[Eco.terminal]: https://github.com/fishery/eco/raw/master/Eco.terminal
 
 * [Eco.terminal]
 * [Eco.itermcolors]
 * Font: 16pt Source Code Pro Medium
-
-[slack-link]: https://fisherman-wharf.herokuapp.com/
-[slack-badge]: https://img.shields.io/badge/slack-join%20the%20chat-00B9FF.svg?style=flat-square
-
-[Fisherman]: https://github.com/fisherman/fisherman
-[eco]: https://cloud.githubusercontent.com/assets/8317250/13768992/4e42969c-eabf-11e5-9d94-d5d1bcd9498e.png
-
-[Eco.itermcolors]: https://github.com/fishery/eco/raw/master/Eco.itermcolors
-[Eco.terminal]: https://github.com/fishery/eco/raw/master/Eco.terminal
